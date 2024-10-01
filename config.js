@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Demirian',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -59,27 +59,27 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Discord',
+			icon: 'GraduationCap',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Polyhaven',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://polyhaven.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'MoeWallpapers GIF',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://moewalls.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Wallhaven STATIC',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://wallhaven.cc/',
 		},
 		{
 			id: '6',
