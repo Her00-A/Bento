@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Discord',
-			icon: 'GraduationCap',
+			icon: 'twitter',
 			link: 'https://discord.com/channels/@me',
 		},
 		{
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Wallhaven STATIC',
+					link: 'https://wallhaven.cc/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'MoeWallpapers GIF',
+					link: 'https://moewalls.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Polyhaven',
+					link: 'https://polyhaven.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Discord',
+					link: 'https://discord.com/channels/@me',
 				},
 			],
 		},
